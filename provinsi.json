@@ -1,0 +1,140 @@
+{
+ "provinsi": [
+  {
+   "name": "Aceh (NAD)",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Aceh%20(NAD)"
+  },
+  {
+   "name": "Bali",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Bali"
+  },
+  {
+   "name": "Banten",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Banten"
+  },
+  {
+   "name": "Bengkulu",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Bengkulu"
+  },
+  {
+   "name": "DI Yogyakarta",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=DI%20Yogyakarta"
+  },
+  {
+   "name": "DKI Jakarta",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=DKI%20Jakarta"
+  },
+  {
+   "name": "Gorontalo",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Gorontalo"
+  },
+  {
+   "name": "Jambi",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Jambi"
+  },
+  {
+   "name": "Jawa Barat",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Jawa%20Barat"
+  },
+  {
+   "name": "Jawa Tengah",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Jawa%20Tengah"
+  },
+  {
+   "name": "Jawa Timur",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Jawa%20Timur"
+  },
+  {
+   "name": "Kalimantan Barat",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Kalimantan%20Barat"
+  },
+  {
+   "name": "Kalimantan Selatan",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Kalimantan%20Selatan"
+  },
+  {
+   "name": "Kalimantan Tengah",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Kalimantan%20Tengah"
+  },
+  {
+   "name": "Kalimantan Timur",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Kalimantan%20Timur"
+  },
+  {
+   "name": "Kalimantan Utara",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Kalimantan%20Utara"
+  },
+  {
+   "name": "Kepulauan Bangka Belitung",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Kepulauan%20Bangka%20Belitung"
+  },
+  {
+   "name": "Kepulauan Riau",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Kepulauan%20Riau"
+  },
+  {
+   "name": "Lampung",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Lampung"
+  },
+  {
+   "name": "Maluku",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Maluku"
+  },
+  {
+   "name": "Maluku Utara",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Maluku%20Utara"
+  },
+  {
+   "name": "Nusa Tenggara Barat (NTB)",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Nusa%20Tenggara%20Barat%20(NTB)"
+  },
+  {
+   "name": "Nusa Tenggara Timur (NTT)",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Nusa%20Tenggara%20Timur%20(NTT)"
+  },
+  {
+   "name": "Papua",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Papua"
+  },
+  {
+   "name": "Papua Barat",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Papua%20Barat"
+  },
+  {
+   "name": "Riau",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Riau"
+  },
+  {
+   "name": "Sulawesi Barat",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sulawesi%20Barat"
+  },
+  {
+   "name": "Sulawesi Selatan",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sulawesi%20Selatan"
+  },
+  {
+   "name": "Sulawesi Tengah",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sulawesi%20Tengah"
+  },
+  {
+   "name": "Sulawesi Tenggara",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sulawesi%20Tenggara"
+  },
+  {
+   "name": "Sulawesi Utara",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sulawesi%20Utara"
+  },
+  {
+   "name": "Sumatera Barat",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sumatera%20Barat"
+  },
+  {
+   "name": "Sumatera Selatan",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sumatera%20Selatan"
+  },
+  {
+   "name": "Sumatera Utara",
+   "url": "https://kodepos.nomor.net/_kodepos.php?_i=kota-kodepos&sby=000000&daerah=Provinsi&jobs=Sumatera%20Utara"
+  }
+ ]
+}
